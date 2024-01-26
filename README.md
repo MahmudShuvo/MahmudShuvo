@@ -4,26 +4,20 @@
 
 ## About Me
 
-- 🌱 I'm currently learning and growing in the world of coding.
-- 💡 I enjoy turning ideas into real projects. 
-- 🚀 On a mission to make cool stuff!
+- 🌱 I'm currently learning and growing in the world of coding. I want to learn and explore more. 
+"The more we learn, the more we realize how much we don't know."
+- 💡 I enjoy turning ideas into real projects. Passionate about coding, research and sports.
+- 🚀 Developing my skills starting from web development and working on some projects. I am a quick learner, hardworker and a team player.   
 
 ## Skills
 
 - 💻 HTML, CSS, JavaScript, React
 - 🐍 Learning Python, Machine Learning and Data Science
 
-## Projects
-
-Check out some projects I've worked on:
-
-1. [Project 1](link-to-project-1): A simple description.
-2. [Project 2](link-to-project-2): Quick overview.
-3. [Project 3](link-to-project-3): Just a glimpse.
 
 ## Let's Connect
 
-- [LinkedIn](link-to-linkedin)
-- [Twitter](link-to-twitter)
+- [LinkedIn](https://www.linkedin.com/in/mahmudulhassanshuvo/)
+- [Gmail](mhshuvo503948@gmail.com)
 
 Feel free to explore my projects and let's connect! Happy coding! 🚀
