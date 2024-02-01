@@ -11,7 +11,7 @@
 
 ## Skills
 
-- 💻 HTML, CSS, JavaScript, React
+- 💻 HTML, CSS, JavaScript, React JS
 - 🐍 Learning Python, Machine Learning and Data Science
 
 
