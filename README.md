@@ -22,6 +22,6 @@
 
 Feel free to explore my projects and let's connect! Happy coding! 🚀
 
-![Visitors](https://img.shields.io/github/visits/MahmudShuvo/MahmudShuvo?label=visitors&color=success)
+
 
 
