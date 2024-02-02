@@ -22,5 +22,5 @@
 
 Feel free to explore my projects and let's connect! Happy coding! 🚀
 
-![Hits](https://hits.dwyl.com/MahmudShuvo/MahmudShuvo)
+![Hits](https://hits.dwyl.com/MahmudShuvo/Readme.md)
 
