@@ -12,7 +12,7 @@
 ## Skills
 
 - HTML, CSS, JavaScript, React JS
-- Learning Python, Machine Learning and Data Science
+- Learning Python, Machine Learning and exploring Data Science
 
 
 ## Let's Connect
