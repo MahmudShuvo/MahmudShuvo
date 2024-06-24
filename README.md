@@ -11,7 +11,7 @@
 ## Skills
 
 - HTML, CSS, JavaScript, React JS, Next JS, Tailwind CSS
-- Learning Python, Machine Learning and exploring Data Science
+- Python, Machine Learning and Data Science
 
 
 ## Let's Connect
